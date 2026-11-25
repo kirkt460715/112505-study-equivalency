@@ -1,0 +1,61 @@
+{
+  "program": "village-route-a",
+  "goals": {
+    "observe": [
+      "guide-confirm"
+    ],
+    "making": [
+      "hands-on",
+      "separate-reflection"
+    ]
+  },
+  "substitution": [
+    {
+      "course": "alt-art",
+      "supports": [
+        "hands-on"
+      ],
+      "cohorts": [
+        "school-18"
+      ],
+      "effective_round": "summer"
+    }
+  ],
+  "roster": {
+    "school-18": [
+      "l-1",
+      "l-2"
+    ],
+    "school-21": [
+      "l-3"
+    ]
+  },
+  "cohort_bridge": {
+    "guest-token-x": [
+      "l-2",
+      "l-3"
+    ]
+  },
+  "issued": {
+    "cert-7": {
+      "student": "l-2",
+      "recorded_at": 17,
+      "evidence": [
+        "obs-18",
+        "do-14",
+        "ref-9"
+      ]
+    }
+  },
+  "partners": {
+    "site-a": [
+      "observe"
+    ],
+    "site-b": [
+      "hands-on"
+    ],
+    "school": [
+      "separate-reflection"
+    ]
+  }
+}

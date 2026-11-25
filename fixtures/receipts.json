@@ -1,0 +1,12 @@
+[
+  {
+    "operation": "publish-certificate",
+    "recipient": "school-18",
+    "delivery": "lost_reply",
+    "receipt": {
+      "student": "l-2",
+      "certificate": "cert-7",
+      "acknowledged": true
+    }
+  }
+]

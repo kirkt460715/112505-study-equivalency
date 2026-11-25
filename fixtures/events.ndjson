@@ -1,0 +1,6 @@
+{"cursor": 1, "source": "attendance", "minute": 5, "payload": {"student": "l-2", "site": "site-a", "receipt": "obs-18", "goal": "observe"}}
+{"cursor": 2, "source": "attendance", "minute": 8, "payload": {"participant": "guest-token-x", "site": "site-b", "receipt": "do-14", "course": "alt-art"}}
+{"cursor": 3, "source": "academic", "minute": 10, "payload": {"revision": "equiv-6", "course": "alt-art", "change": "limited_scope"}}
+{"cursor": 4, "source": "identity", "minute": 15, "payload": {"participant": "guest-token-x", "student": "l-2", "matched_by": "school-18"}}
+{"cursor": 5, "source": "school", "minute": 16, "payload": {"student": "l-2", "receipt": "ref-9", "goal": "separate-reflection"}}
+{"cursor": 6, "source": "correction", "minute": 28, "payload": {"supersedes": "obs-18", "student": "l-2", "actual": "departed_early"}}
